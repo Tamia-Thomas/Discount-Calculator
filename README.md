@@ -1,2 +1,2 @@
 # Discount-Calculator
-This program is calculator to total amount of discounts.
+This program is a calculator to total the amount of discounts.
